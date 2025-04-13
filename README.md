@@ -23,6 +23,9 @@
         ├── ⚡ script.js   # Lógica do cronômetro <br>
         ├── 🖼️ assets/     # Pasta para a logo <br>
         ├── 📄 README.md   # Documentação do projeto
+        <div style="display: flex; justify-content: space-between;">
+
+<img src="https://raw.github.com/jacksonprado/Cronometro/main/assets/img-cron.png"/>
     </div>
 </body>
 </html>
